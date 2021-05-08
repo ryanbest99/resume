@@ -213,6 +213,23 @@ img {
 }
 
 /*========== HOME ==========*/
+.home {
+  position: relative;
+}
+
+.home__container {
+  gap: 3rem;
+}
+
+.home__data {
+  gap: 0.5rem;
+  text-align: center;
+}
+
+.home__img {
+  width: 120px;
+  /* height: 120px; */
+}
 
 /*========== SOCIAL ==========*/
 
